@@ -1,1 +1,1 @@
-# M-dulo-3--Barbearia-Alura
+# Modulo-3--Barbearia-Alura
