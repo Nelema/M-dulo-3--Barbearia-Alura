@@ -6,10 +6,13 @@ Linguagens HTML5 e CSS3.
 
 Parte I :
 A primeira parte da Web.
+
 Parte II:
 Posicionamento, listas e navegação.
+
 Parte III:
 Trabalhando com formulários.
+
 Parte IV:
 Avançando no CSS3
 
